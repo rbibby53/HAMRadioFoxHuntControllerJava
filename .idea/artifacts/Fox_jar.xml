@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Fox:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Fox_jar</output-path>
+    <root id="archive" name="Fox.jar">
+      <element id="module-output" name="Fox" />
+    </root>
+  </artifact>
+</component>
